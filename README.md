@@ -4,3 +4,5 @@
  README editado no Visual Studio Code.
 
 README atualizado de forma remota NO GitHub.
+
+Nova atualização remota no README.
